@@ -7,6 +7,12 @@
 - **Authors:** Haoqi Huang, Ping Wang (IEEE Fellow), Jianhua Pei, Jiacheng Wang, Shahen Alexanian, Dusit Niyato (IEEE Fellow)
 - **Coverage:** 180+ recent studies on deep learning-based anomaly detection
 
+## 🔗 Links
+- **Paper PDF:** https://arxiv.org/pdf/2503.13195
+- **Medium Article:** [Link will be added]
+- **Video Presentation:** [Link will be added]
+- **Slides:** [Slideshare](https://www.slideshare.net/secret/tGJr8lKBP9oFaY)
+
 ## 🎯 Why This Paper?
 Anomaly detection is a core data mining technique for identifying rare, unusual patterns in data - critical for fraud detection, cybersecurity, healthcare monitoring, and system failures. This survey comprehensively reviews the evolution from traditional statistical methods to state-of-the-art deep learning approaches.
 
@@ -49,8 +55,3 @@ Anomaly detection is a core data mining technique for identifying rare, unusual 
 - 🎥 **Video** - 10-15 minute presentation
 - 📊 **Slides** - Available on SlideShare
 
-## 🔗 Links
-- **Paper PDF:** https://arxiv.org/pdf/2503.13195
-- **Medium Article:** [Link will be added]
-- **Video Presentation:** [Link will be added]
-- **Slides:** [Link will be added]
