@@ -9,7 +9,7 @@
 
 ## 🔗 Links
 - **Paper PDF:** https://arxiv.org/pdf/2503.13195
-- **Medium Article:** [Link will be added]
+- **Medium Article:** [Medium](https://medium.com/@shrerampalanisamy/deep-learning-advancements-in-anomaly-detection-a-comprehensive-survey-explained-388fe8472298)
 - **Video Presentation:** [Link will be added]
 - **Slides:** [Slideshare](https://www.slideshare.net/secret/tGJr8lKBP9oFaY)
 
