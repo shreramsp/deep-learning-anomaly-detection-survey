@@ -3,12 +3,12 @@
 ## 📄 Paper Information
 - **Title:** Deep Learning Advancements in Anomaly Detection: A Comprehensive Survey
 - **Published:** March 2025
-- **ArXiv:** [2503.13195](https://arxiv.org/abs/2503.13195)
+- **ArXiv:** [arxiv](https://arxiv.org/abs/2503.13195)
 - **Authors:** Haoqi Huang, Ping Wang (IEEE Fellow), Jianhua Pei, Jiacheng Wang, Shahen Alexanian, Dusit Niyato (IEEE Fellow)
 - **Coverage:** 180+ recent studies on deep learning-based anomaly detection
 
 ## 🔗 Links
-- **Paper PDF:** https://arxiv.org/pdf/2503.13195
+- **Paper PDF:** [Paper](https://arxiv.org/pdf/2503.13195)
 - **Medium Article:** [Medium](https://medium.com/@shrerampalanisamy/deep-learning-advancements-in-anomaly-detection-a-comprehensive-survey-explained-388fe8472298)
 - **Video Presentation:** [Link will be added]
 - **Slides:** [Slideshare](https://www.slideshare.net/secret/tGJr8lKBP9oFaY)
